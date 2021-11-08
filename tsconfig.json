@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "C:\\MyWorks\\_GoogleScript\\_NewPorjects2021\\js",
+        "allowJs": true,
+        "checkJs": true,
+        "types": [
+            "google-apps-script"
+        ],
+        "experimentalDecorators": true,
+        "target": "es2019"
+    },
+}
